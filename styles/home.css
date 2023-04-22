@@ -1,0 +1,80 @@
+.stylized{
+    font-family: "Oldschool Tag Italic";
+    font-size: 80px;
+    padding-bottom: 40px;
+}
+
+.stylized-medium{
+    font-family: "Oldschool Tag Italic";
+    font-size: 60px;
+}
+
+.banner{
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.section-home{
+    padding-bottom: none;
+    border-bottom: 1rem solid white;
+}
+
+.main-video{
+    background-color:black;
+}
+
+.more-about-us-button{
+    background-color: black;
+    border-radius: 35px;
+    border: 0.1rem solid white;
+    color: white;
+    font-size: 2rem;
+    padding: 10px 40px 10px 40px;
+}
+
+.more-about-us-button:hover{
+    background-color: white;
+    color: black;
+    transition: background-color 1s;
+}
+
+.columns{
+    height: 100%
+}
+
+.right-border{
+    border-right: 0.3rem solid white;
+}
+
+.text-info{
+    font-size: 2rem;
+    line-height: 85%;
+    padding-left: 80px;
+}
+
+.info-title{
+    padding-bottom: 50px;
+}
+
+.info-text{
+    padding-bottom: 60px;
+}
+
+.footer-title{
+    color: rgb(122, 122, 122);
+}
+
+.link {
+    color: white;
+    border-bottom: 0.3rem solid transparent;
+}
+
+.link:hover{
+    color: white;
+    border-bottom: 0.3rem solid white;
+}
+
+a{
+    color: white;
+}
